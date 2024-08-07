@@ -8,8 +8,7 @@ public class BallColiision : MonoBehaviour {
         gameManager = FindObjectOfType<GameManager>();
     }
 
-    private void OnCollisionEnter2D(Collision2D collision)
-    {
+    private void OnCollisionEnter2D(Collision2D collision) {
         DestroyIfIsBlock(collision);
     }
 
