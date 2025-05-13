@@ -1,1 +1,3 @@
-Unity exercise making a basic clone of the Arkanoid game .
+# Arkanoid
+
+Game developed as a Unity exercise.
